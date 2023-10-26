@@ -37,3 +37,7 @@ npm-debug.log*
 server/index.js
 server/index.js.map
 server/upload/
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
